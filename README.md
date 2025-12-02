@@ -42,13 +42,5 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://gh-stats-eta.vercel.app/api?username=pazucch&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://gh-stats-eta.vercel.app/api/top-langs/?username=pazucch&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
 ## 🤝 Let's Connect!
 If you want to talk about code, music, college, or projects — hit me up in any socials!! 😄  
